@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Batching &amp; wake-up test</string>
+
+    <string name="acc_title">Accelerometer</string>
+    <string name="prox_title">Proximity</string>
+
+    <string name="sub_title">Batching mode</string>
+
+    <string name="wakeup">wake up </string>
+    <string name="nonwakeup">non wake up </string>
+
+    <string name="dots">...</string>
+
+
+    <string name="api_text">API #</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="share_snapback">Share with Snapback</string>
+    <string name="share_friends">Share with friends</string>
+</resources>
